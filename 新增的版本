@@ -1,1 +1,7 @@
-适当方式等方面
+客户端
+1.创建项目
+add:添加本地的项目 creat:创建一个项目，原本没有； Clone:下载到本地；
+undo:修改版本；只适合没有同步到GitHub的版本；
+Revert this commit:撤销此次的同步；
+roll back to this commit:全部撤销，删去版本；
+publish:发布到网站上；
