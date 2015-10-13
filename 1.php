@@ -9,3 +9,6 @@
 function index(){
     echo 123;
 }
+function add(){
+	echo 1123123123;
+}
